@@ -2,7 +2,7 @@
 
 This repository provides MATLAB codes of our proposed conditional density estimation [1].
 
-You can run a demo by:
+You can run a demo script:
 
     dataset = 1  %option: three synthetic datasets
     demo_SACDE(dataset)
